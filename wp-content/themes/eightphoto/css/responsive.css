@@ -1,0 +1,757 @@
+@media screen and (max-width: 1250px) {
+	.boxed-layout {
+	    width: 95%;
+	}
+	.foto-container, .ed_service_section .service-box-wrap, 
+	.boxed-layout .site-header {
+		width: 100%
+	}
+	.site-header, .ed_aboutus, .top-footer, .site-info, .ed-thumb-list-view, .ed-grid-view, .pagination, .ed-large-thumbs-list-view, 
+	.single .image-gallery-format {
+		padding-right: 10px;
+		padding-left: 10px;
+	}
+	#back-to-top.show {
+		bottom: 70px;
+	}
+	#primary {
+	    padding-left: 10px;
+	}
+	#secondary {
+	    padding-right: 10px;
+	}
+	.leftsidebar #primary {
+		padding-right: 10px;
+		padding-left: 0;
+	}
+	.leftsidebar #secondary {
+		padding-right: 0;
+		padding-left: 10px;
+	}
+	.main-navigation .primary-nav-menu {
+		min-width: 50%;
+	}
+	.site-header .foto-container {
+		padding: 0;
+	}
+
+	/*-------------------------------------------------
+	TEAM PAGE
+	--------------------------------------------------*/
+	.team-grid .ed-team-list-wrap {
+		width: 50%;
+	}
+
+	/*-------------------------------------------
+	TESTIMONIAL PAGE
+	--------------------------------------------*/
+	.testimonial-list .ed-testimonial-list-wrap {
+		width: 90%;
+	}
+}
+
+@media screen and (max-width: 1175px) {
+	/*--------------------------------------------
+	COMMON CSS
+	--------------------------------------------*/
+	.boxed-layout {
+	    width: 97%;
+	}
+	.service-box .service-hover > p {
+	    /*height: 50px;*/
+	    margin-bottom: 10px;
+	    overflow: hidden;
+	}
+	/*.boxed-layout .search-social-icon, .wrap-social-nav {
+		width: 64%;
+	}*/
+	.main-navigation {
+	    width: 5%;
+	}
+	/*.single-slide {
+		background-size: inherit;
+	}*/
+
+	/*--------------------------------------------
+	GALLERY PAGE
+	---------------------------------------------*/
+	.ed-thumb-list-view .ed-gallery-list-thumb {
+		height: 25vw;
+		background-repeat: no-repeat;
+    	background-size: 100% auto;
+	}
+
+}
+
+@media screen and (max-width: 980px) {
+	/*.boxed-layout .search-social-icon, .wrap-social-nav {
+		width: 63%;
+	}*/
+	.main-navigation {
+	    width: 6%;
+	}
+	.ed-grid-hover .gallery-open-link > a {
+	    font-size: 18px;
+	    height: 40px;
+	    line-height: 40px;
+	    width: 40px;
+	}
+	
+	/*--------------------------------------------
+	SERVICE SECTION
+	---------------------------------------------*/
+	.service-box .service-hover .post-title {
+	    font-size: 20px;
+    	line-height: 22px;
+	}
+	.service-box .service-hover > p {
+	    font-size: 16px;
+	}
+
+	/*------------------------------------------
+	NAVIGATION FOR BOXED LAYOUT
+	-------------------------------------------*/
+	.boxed-layout .ed-toggle-nav {
+	    display: block;
+	    margin: 0;
+	    float: none;
+	}
+	.toggled-nav.boxed-layout .ed-toggle-nav {
+	    position: relative;
+	    right: 0;
+	}
+	.toggled-nav.boxed-layout .ed-toggle-nav .toggle-bar.toggle-bar1 {
+	    transform: rotate(45deg);
+	    -webkit-transform: rotate(45deg);
+	    transform-origin: 0 5px 0;
+	    -webkit-transform-origin: 0 5px 0;
+	    width: 25px;
+	}
+	.toggled-nav.boxed-layout .ed-toggle-nav .toggle-bar.toggle-bar2 {
+		opacity: 0;
+		visibility: hidden;
+		transform: scale(0.5);
+	    -webkit-transform: scale(0.5);
+	}
+	.toggled-nav.boxed-layout .ed-toggle-nav .toggle-bar.toggle-bar3 {
+	    transform: rotate(-45deg);
+	    -webkit-transform: rotate(-45deg);
+	    transform-origin: 7px 0 0;
+	    -webkit-transform-origin: 7px 0 0;
+	    width: 25px;
+	}
+	
+	.boxed-layout .main-navigation .primary-nav-menu {
+		display: none;
+		transition: inherit;
+		-webkit-transition: inherit;
+	}
+	.boxed-layout .main-navigation ul li {
+	    display: block;
+	}
+	.boxed-layout .main-navigation ul li.menu-item-has-children span {
+	    background: #666 none repeat scroll 0 0;
+	    display: inline-block;
+	    font-family: fontawesome;
+	    font-size: 18px;
+	    height: 25px;
+	    line-height: 25px;
+	    text-align: center;
+	    width: 25px;
+	    top: 5px;
+	}
+	.boxed-layout .main-navigation ul li.menu-item-has-children span:hover {
+		background: #444;
+		color: #9dc100;
+	}
+	.boxed-layout .main-navigation ul li.menu-item-has-children > ul {
+	    display: none;
+	    opacity: 1;
+	    position: static;
+	    visibility: visible;
+	    white-space: normal;
+	    transition: inherit;
+		-webkit-transition: inherit;
+	}
+	.boxed-layout .main-navigation ul li ul li.menu-item-has-children span {
+		background: #ddd none repeat scroll 0 0;
+	    right: 8px;
+	    top: 2px;
+	    transform: rotate(0deg);
+	    -webkit-transform: rotate(0deg);
+	}
+	.boxed-layout .main-navigation ul li ul li.menu-item-has-children span:hover {
+		background: #999;
+		color: #eee;
+	}
+	.boxed-layout .main-navigation ul li a {
+	    border-bottom: 1px solid #ddd;
+	    padding: 5px;
+	    width: 100%;
+	}
+	.boxed-layout .main-navigation ul li.menu-item-has-children a {
+	    padding-right: 50px;
+	}
+	.boxed-layout .main-navigation ul ul {
+		margin-left: 10px;
+	}
+
+	/*--------------------------------------------
+	GALLERY PAGE
+	---------------------------------------------*/
+	.ed-grid-view .ed-gallery, .ed-sortable-grid .ed-gallery {
+		width: 33.33%;
+	}
+
+	/*-----------------------------------------
+	SEARCH NO-RESULT PAGE
+	------------------------------------------*/
+	.no-results .page-content .search-form input[type="search"] {
+		width: 80%;
+	}
+	.no-results .page-content .search-form input[type="submit"] {
+		width: 20%;
+	}
+
+	/*------------------------------------------------
+	TESTIMONIAL PAGE
+	-------------------------------------------------*/
+	.testimonial-grid .ed-testimonial-list-wrap {
+		width: 50%;
+	}
+
+}
+
+@media screen and (max-width: 800px) {
+	.boxed-layout .search-social-icon, .wrap-social-nav {
+		width: 69%;
+	}
+	.main-navigation {
+	    float: right;
+	    width: auto;
+	}
+	.ed_aboutus .about_desc .aboutus-subtitle {
+		width: auto;
+	}
+	#back-to-top.show {
+		bottom: 100px;
+	}
+
+	/*---------------------------------------------------
+	BANNER SLIDER
+	---------------------------------------------------*/
+	.ed-banner-slider .caption {
+		width: 90%;
+	}
+	.ed-banner-slider .caption .title {
+	    font-size: 2em;
+	    line-height: 45px;
+	    padding-bottom: 25px;
+	}
+	.ed-banner-slider .caption .title::after {
+		bottom: 0;
+	}
+	.ed-banner-slider .caption .desc {
+		font-size: 16px;
+	}
+	.ed-banner-slider .caption .desc .caption-link a {
+		font-size: 18px;
+		padding: 5px 20px;
+	}
+
+	/*--------------------------------------------
+	SERVICE SECTION
+	---------------------------------------------*/
+	.ed_service_section .service-box {
+	    width: 50%;
+	    margin-bottom: 30px;
+	}
+	.ed_service_section .service-box:last-child {
+		margin-bottom: 0;	
+	}
+	
+	.service-box .service-hover > p {
+	    font-size: 14px;
+    	line-height: 18px;
+	}
+	.service-box .service-hover .bttn {
+		font-size: 16px;
+    	padding: 3px 20px;
+	}
+
+	/*-----------------------------------------------
+	STAT COUNTER
+	------------------------------------------------*/
+	.counter-section .about-counter-wrap .about-counter {
+		width: 50%;
+		margin-bottom: 40px;
+	}
+	.counter-section .about-counter-wrap .about-counter:nth-last-of-type(1), 
+	.counter-section .about-counter-wrap .about-counter:nth-last-of-type(2) {
+		margin-bottom: 0;
+	}
+
+	/*----------------------------------------------
+	GALLERY SECTION
+	-----------------------------------------------*/
+	.ed_gallery_section #ed_gallery_wrap #ed-grid-gallery-view > div {
+		width: 33.33%;
+	}
+
+	/*------------------------------------------
+	BLOG SECTION
+	-------------------------------------------*/
+	.ed-blog-section .ed-latest-post .post-item {
+		width: 50%;
+	}
+
+	/*------------------------------------------------
+	QUICK CONTACT
+	-------------------------------------------------*/
+	.quick_contact_section .ed-email, .quick_contact_section .ed-twitter, .quick_contact_section .ed-phone {
+	    margin-bottom: 40px;
+	    width: 50%;
+	}
+	.quick_contact_section .ed-phone {
+		margin-bottom: 0;
+	}
+
+	/*------------------------------------------------
+	TOP FOOTER
+	-------------------------------------------------*/
+	.top-footer .footer-wrap .footer-block {
+		width: 50%;
+		padding-right: 15px;
+		margin-bottom: 40px;
+	}
+	.top-footer .footer-wrap .footer-block:nth-last-of-type(1), .top-footer .footer-wrap .footer-block:nth-last-of-type(2) {
+		margin-bottom: 0;
+	}
+	.top-footer .footer-wrap .footer-block:nth-child(2n) {
+	    padding-left: 15px;
+	    padding-right: 0;
+	}
+
+	/*--------------------------------------------
+	SIDEBARS
+	---------------------------------------------*/
+	#primary {
+		margin-bottom: 40px;
+	}
+	#primary, #secondary {
+	    float: none;
+	    width: 100%;
+	    padding-right: 10px;
+	    padding-left: 10px;
+	}
+	.leftsidebar #primary, .leftsidebar #secondary {
+		float: none;
+		padding-left: 10px;
+		padding-right: 10px;
+	}
+
+	/*-------------------------------------------
+	BLOG PAGE
+	--------------------------------------------*/
+	.blog-alternateimagelistview .ed-blog-list-thumb {
+		height: 25vw;
+	}
+
+	/*------------------------------------------------
+	FOOTER SECTION
+	-------------------------------------------------*/
+	.footer-social-media {
+	    margin-top: 10px;
+	    text-align: center;
+	    width: 100%;
+	}
+	.copyright {
+	    text-align: center;
+	    width: 100%;
+	}
+
+	.single .top-footer {
+		margin-top: 20px;
+	}
+
+}
+
+@media screen and (max-width: 782px) {
+	/*.admin-bar .site-header {
+	    top: 46px;
+	}*/
+
+}
+
+@media screen and (max-width: 640px) {
+	/*--------------------------------------------
+	COMMON CSS
+	--------------------------------------------*/
+	body {
+		margin-right: 0;
+	}
+	/*body.toggled-nav {
+	    height: 100%;
+	    left: 0;
+	    position: fixed;
+	    top: 0;
+	    width: 100%;
+	}*/
+	body.toggled-nav.boxed-layout {
+	    margin: 0 auto;
+	    right: 0;
+	    width: 97%;
+	    position: static;
+	    height: auto;
+	}
+	.site-header, .ed_aboutus, .top-footer, .site-info {
+		padding-right: 10px;
+		padding-left: 10px;
+	}
+	#back-to-top {
+		right: 0;
+	}
+	.bttn {
+		font-size: 18px;
+	}
+	.rightsidebar .site-header, .leftsidebar .site-header, 
+	.bothsidebar .site-header, .nosidebar .site-header, .search .site-header, 
+	.archive .site-header, .error404 .site-header, .no-slider .site-header {
+		position: relative;
+	}
+	.ed-banner-slider .caption {
+		display: none;
+	}
+	.admin-bar .site-header {
+	    top: 0px;
+	}
+	.main-navigation .primary-nav-menu {
+		min-width: 80%;
+	}
+
+	/*----------------------------------------
+	HEADER SECTON
+	-----------------------------------------*/
+	.header-logo {
+		width: 100%;
+		padding-right: 60px;
+		margin-bottom: 10px;
+	}
+	.admin-bar .main-navigation {
+		padding-top: 0;
+	}
+	.boxed-layout.toggled-nav .site-header {
+		top: auto;
+		width: 97%;
+	}
+	.boxed-layout .search-social-icon, .wrap-social-nav {
+		width: 100%;
+		text-align: left;
+		margin-bottom: 10px;
+	}
+	
+	/*---------------------------------------------
+	MAIN NAVIGATION
+	----------------------------------------------*/
+	.main-navigation {
+		background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
+	    position: absolute;
+	    right: 10px;
+	    top: 15%;
+	    transform: inherit;
+	    width: auto;
+	}
+
+	/*----------------------------------------------
+	MAIN SLIDER
+	-----------------------------------------------*/
+	.ed-banner-slider .caption .title {
+	    font-size: 2em;
+	    line-height: 35px;
+	}
+	.ed-banner-slider .caption .desc {
+	    font-size: 18px;
+	    line-height: 22px;
+	}
+
+	/*---------------------------------------------
+	SERVICES SECTION
+	----------------------------------------------*/
+	.ed_service_section .service-box {
+		float: none;
+		width: 100%;
+		padding-left: 10px;
+		padding-right: 10px;
+	}
+	.ed_service_section .service-box::after {
+		left: 15px;
+		right: 15px;
+	}
+
+	/*----------------------------------------------
+	GALLERY SECTION
+	-----------------------------------------------*/
+	.ed_gallery_section #ed_gallery_wrap #ed-grid-gallery-view > div {
+		width: 50%;
+	}
+
+	/*---------------------------------------------
+	CALL TO ACTION
+	----------------------------------------------*/
+	.call-to-action .section-title {
+	    font-size: 3em;
+	    line-height: 60px;
+	}
+	.call-to-action .call-to-action-subtitle {
+	    font-size: 25px;
+	    line-height: 35px;
+	}
+
+	/*------------------------------------------------
+	QUICK CONTACT
+	-------------------------------------------------*/
+	.quick_contact_section .ed-email, .quick_contact_section .ed-twitter, .quick_contact_section .ed-phone {
+	    float: none;
+	    margin-bottom: 40px;
+	    padding: 0 10px;
+	    width: 100%;
+	}
+	.quick_contact_section .ed-phone {
+		margin-bottom: 0;
+	}
+	/*------------------------------------------------
+	GALLERY SINGLE PAGE
+	-------------------------------------------------*/
+	.ed-gallery-images .classic-gallery a, .ed-gallery-images #light-gallery li {
+		width: 32%;
+	}
+
+}
+
+@media screen and (max-width: 600px) {
+	/*.admin-bar .site-header {
+	    padding-top: 50px;
+	}
+	.admin-bar .main-navigation {
+	    padding-top: 60px;
+	}
+	.boxed-layout.admin-bar .main-navigation {
+	    padding-top: 0px;
+	}*/
+}
+
+@media screen and (max-width: 540px) {
+	.wrap-social-nav .search-social-icon {
+		margin-right: 0;
+	}
+	.search-social-icon .search {
+		width: 100%;
+		margin-bottom: 10px;
+	}
+	.ed-banner-slider .caption {
+		width: 100%;
+	}
+
+	
+	/*----------------------------------------------
+	ABOUT SECTION
+	-----------------------------------------------*/
+	.section-title {
+	    font-size: 2em;
+	    line-height: 35px;
+	}
+	.ed_aboutus .about_desc .aboutus-subtitle {
+	    font-size: 18px;
+	    line-height: 25px;
+	}
+
+	/*--------------------------------------------
+	STAT COUNTER
+	---------------------------------------------*/
+	.counter-section .about-counter-wrap .about-counter {
+	    float: none;
+	    margin-bottom: 60px;
+	    padding: 0;
+	    width: 100%;
+	}
+	.counter-section .about-counter-wrap .about-counter:last-child {
+		margin-bottom: 0;
+	}
+
+	/*--------------------------------------------
+	CALL TO ACTION
+	---------------------------------------------*/
+	.call-to-action .section-title {
+	    font-size: 2.5em;
+	    line-height: 50px;
+	}
+
+	/*-------------------------------------------
+	BLOG SECTION
+	--------------------------------------------*/
+	.ed-blog-section .ed-latest-post .post-item {
+	    float: none;
+	    margin-bottom: 20px;
+	    width: 100%;
+	}
+
+	/*------------------------------------------------
+	TOP FOOTER
+	-------------------------------------------------*/
+	.top-footer .footer-wrap .footer-block::before, .top-footer .footer-wrap .footer-block::after {
+	    clear: both;
+	    content: "";
+	    display: table;
+	}
+	.top-footer .footer-wrap .footer-block {
+	    float: none;
+	    padding-right: 0;
+	    width: 100%;
+	}
+	.top-footer .footer-wrap .footer-block:nth-child(2n) {
+		padding-left: 0;
+	}
+	.top-footer .footer-wrap .footer-block:nth-last-of-type(2) {
+		margin-bottom: 40px;
+	}
+	.top-footer .footer-wrap .footer-block:last-child {
+		margin-bottom: 0;
+	}
+
+	/*---------------------------------------------------
+	GALLERY PAGE
+	----------------------------------------------------*/
+	.ed-thumb-list-view .ed-gallery-list-thumb {
+	    float: none;
+	    margin-bottom: 20px;
+	    width: 100%;
+	    height: 280px;
+	    background-size: cover;
+	}
+	.ed-thumb-list-view .ed-gallery-list-detail {
+	    float: none;
+	    padding-left: 0;
+	    width: 100%;
+	}
+	.ed-grid-view .ed-gallery, .ed-sortable-grid .ed-gallery {
+	    float: none;
+	    margin: 0 auto 5px;
+	    padding-right: 0;
+	    width: 290px;
+	}
+	.ed-sortable-grid .ed-gallery {
+		right: 0;
+	}
+	.ed-grid-view .ed-gallery .ed-grid-hover, .ed-sortable-grid .ed-gallery .ed-grid-hover {
+		width: 100%;
+	}
+	.ed-large-thumbs-list-view .ed-gallery-list-thumb {
+		height: 280px;
+	}
+
+	/*------------------------------------------------
+	GALLERY SINGLE PAGE
+	-------------------------------------------------*/
+	.ed-gallery-images .classic-gallery a, .ed-gallery-images #light-gallery li {
+		width: 49%;
+	}
+
+	/*-------------------------------------------------
+	BLOG PAGE
+	--------------------------------------------------*/
+	.blog-alternateimagelistview .ed-blog-list-thumb {
+	    float: none;
+	    height: 250px;
+	    margin-bottom: 20px;
+	    width: 100%;
+	}
+	.blog-alternateimagelistview .blog-post-wrap:nth-child(2n) .ed-blog-list-thumb {
+		float: none;
+	}
+	.blog-alternateimagelistview .ed-blog-list-detail {
+	    float: none;
+	    padding-left: 0;
+	    width: 100%;
+	}
+	.blog-alternateimagelistview .blog-post-wrap:nth-child(2n) .ed-blog-list-detail {
+		padding-right: 0;
+	}
+
+	/*-----------------------------------------
+	SEARCH NO-RESULT PAGE
+	------------------------------------------*/
+	.no-results .page-content .search-form input[type="search"] {
+		width: 70%;
+	}
+	.no-results .page-content .search-form input[type="submit"] {
+		width: 30%;
+	}
+
+	/*------------------------------------------
+	TEAM PAGE
+	-------------------------------------------*/
+	.team-list .ed-team-list-thumb {
+	    float: none;
+	    margin-bottom: 20px;
+	    width: 100%;
+	}
+	.team-list .ed-team-list-detail {
+	    float: none;
+	    padding-left: 0;
+	    width: 100%;
+	}
+	.team-grid .ed-team-list-wrap {
+	    float: none;
+	    padding: 10px 0;
+	    width: 100%;
+	}
+	.team-grid .ed-team-list-detail {
+		left: 0;
+		right: 0;
+	}
+
+	/*-------------------------------------------
+	TESTIMONIAL PAGE
+	--------------------------------------------*/
+	.testimonial-list .ed-testimonial-list-wrap {
+		left: 0;
+		width: 100%;
+	}
+	.testimonial-list .ed-testimonial-list-wrap .ed-testimonial-list-thumb {
+	    left: 0;
+	    margin: 0 auto;
+	    right: 0;
+	}
+	.testimonial-list .ed-testimonial-list-wrap .ed-testimonial-list-detail {
+	    padding-left: 0;
+	    padding-top: 80px;
+	}
+	.testimonial-grid .ed-testimonial-list-wrap {
+		float: none;
+		width: 100%;
+	}
+}
+@media screen and (max-width: 540px) and (orientation: landscape) {
+	.boxed-layout .header-logo {
+		width: 50%;
+	}
+	.boxed-layout .search-social-icon {
+		width: 49%;
+	}
+	.ed-grid-view .ed-gallery, .ed-sortable-grid .ed-gallery {
+	    display: inline-block;
+	    float: none;
+	    margin: 0;
+	    padding-right: 0;
+	    width: 49%;
+	}
+}
+
+@media screen and (max-width: 460px) {
+	/*----------------------------------------------
+	GALLERY SECTION
+	-----------------------------------------------*/
+	.ed_gallery_section #ed_gallery_wrap #ed-grid-gallery-view > div {
+		width: 100%;
+	}
+}

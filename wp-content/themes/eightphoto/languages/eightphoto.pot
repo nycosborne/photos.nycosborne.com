@@ -1,0 +1,1285 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: EightPhoto\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-09-14 09:12+0000\n"
+"POT-Revision-Date: Thu Apr 07 2016 10:10:04 GMT+0545 (Nepal Standard Time)\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: 404.php:12
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:19
+msgid "404"
+msgstr ""
+
+#: 404.php:20
+msgid "error"
+msgstr ""
+
+#: comments.php:29
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:38 comments.php:59
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:41 comments.php:62
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:42 comments.php:63
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:75
+msgid "Comments are closed."
+msgstr ""
+
+#: footer.php:51
+msgid "WordPress Theme : "
+msgstr ""
+
+#: footer.php:51
+msgid "Free WordPress Theme"
+msgstr ""
+
+#: footer.php:51
+msgid "https://8degreethemes.com/wordpress-themes/eightphoto/"
+msgstr ""
+
+#: footer.php:51
+msgid "Eightphoto"
+msgstr ""
+
+#: footer.php:52
+msgid " by 8Degree Themes"
+msgstr ""
+
+#: footer.php:70
+msgid "Back to top"
+msgstr ""
+
+#: footer.php:90
+msgid "Close (Esc)"
+msgstr ""
+
+#: footer.php:92
+msgid "Share"
+msgstr ""
+
+#: footer.php:94
+msgid "Toggle fullscreen"
+msgstr ""
+
+#: footer.php:96
+msgid "Zoom in/out"
+msgstr ""
+
+#: footer.php:112
+msgid "Previous (arrow left)"
+msgstr ""
+
+#: footer.php:113
+msgid "Next (arrow right)"
+msgstr ""
+
+#: functions.php:54
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:113
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:115
+msgid "Add widgets here."
+msgstr ""
+
+#: functions.php:124
+msgid "Right Sidebar Widget Area"
+msgstr ""
+
+#: functions.php:134
+msgid "Left Sidebar Widget Area"
+msgstr ""
+
+#: functions.php:144
+msgid "Gallery Widget Area"
+msgstr ""
+
+#: functions.php:154
+msgid "Footer Widget Area One"
+msgstr ""
+
+#: functions.php:163
+msgid "Footer Widget Area Two"
+msgstr ""
+
+#: functions.php:172
+msgid "Footer Widget Area Three"
+msgstr ""
+
+#: functions.php:181
+msgid "Footer Widget Area Four"
+msgstr ""
+
+#: functions.php:191
+msgid "Social Icon Widget Area Four"
+msgstr ""
+
+#: search.php:12
+msgid "Search Results for: %s"
+msgstr ""
+
+#: searchform-header.php:6
+msgid "Search..."
+msgstr ""
+
+#: searchform-header.php:9
+msgid "Search for:"
+msgstr ""
+
+#. Name of the template
+msgid "Home Page boxed layout"
+msgstr ""
+
+#: template-boxed.php:89 template-gallery.php:56 template-home.php:16 
+#: tpl-gallery-grid-view.php:56 tpl-gallery-largelist-view.php:56 
+#: tpl-gallery-sortable-view.php:56 tpl-gallery-thumblist-view.php:56
+msgid "All"
+msgstr ""
+
+#. Name of the template
+msgid "Gallery Layout"
+msgstr ""
+
+#: template-gallery.php:168 tpl-blog-alternate.php:79 
+#: tpl-blog-large-list.php:78 tpl-gallery-grid-view.php:168 
+#: tpl-gallery-largelist-view.php:168 tpl-gallery-sortable-view.php:168 
+#: tpl-gallery-thumblist-view.php:168 tpl-team-grid.php:72 tpl-team-list.php:72 
+#: tpl-testimonial-grid.php:62 tpl-testimonial-list.php:62 
+#: inc/eightphoto-functions.php:280 inc/eightphoto-functions.php:303 
+#: inc/eightphoto-functions.php:327 inc/eightphoto-functions.php:389 
+#: template-parts/content.php:47 template-parts/content.php:85 
+#: template-parts/content.php:113 template-parts/content.php:146
+msgid "Read More"
+msgstr ""
+
+#. Name of the template
+msgid "Home Page"
+msgstr ""
+
+#: template-home.php:70 inc/eightphoto-customizer.php:246
+msgid "Gallery"
+msgstr ""
+
+#. Name of the template
+msgid "Blog with alternate image"
+msgstr ""
+
+#: tpl-blog-alternate.php:11 tpl-blog-large-list.php:11
+msgid "Blogs"
+msgstr ""
+
+#. Name of the template
+msgid "Blog with Large image"
+msgstr ""
+
+#. Name of the template
+msgid "Gallery Layout with grid view"
+msgstr ""
+
+#. Name of the template
+msgid "Gallery Layout with large list"
+msgstr ""
+
+#. Name of the template
+msgid "Gallery Layout with sortable"
+msgstr ""
+
+#. Name of the template
+msgid "Gallery Layout with medium thumb list"
+msgstr ""
+
+#. Name of the template
+msgid "Team with Grid View"
+msgstr ""
+
+#: tpl-team-grid.php:11 tpl-team-list.php:11
+msgid "Team"
+msgstr ""
+
+#. Name of the template
+msgid "Team with List View"
+msgstr ""
+
+#. Name of the template
+msgid "Testimonial with Grid View"
+msgstr ""
+
+#: tpl-testimonial-grid.php:11 tpl-testimonial-list.php:11
+msgid "Testimonial"
+msgstr ""
+
+#. Name of the template
+msgid "Testimonial with List View"
+msgstr ""
+
+#: inc/class-repeater.php:57 inc/class-repeater.php:141
+msgid "eightphoto"
+msgstr ""
+
+#: inc/class-repeater.php:61 inc/class-repeater.php:144 
+#: inc/class-repeater.php:215
+msgid "Image type"
+msgstr ""
+
+#: inc/class-repeater.php:63 inc/class-repeater.php:75 
+#: inc/class-repeater.php:97 inc/class-repeater.php:146 
+#: inc/class-repeater.php:158 inc/class-repeater.php:175 
+#: inc/class-repeater.php:217 inc/class-repeater.php:229 
+#: inc/class-repeater.php:246
+msgid "Icon"
+msgstr ""
+
+#: inc/class-repeater.php:64 inc/class-repeater.php:69 
+#: inc/class-repeater.php:87 inc/class-repeater.php:147 
+#: inc/class-repeater.php:152 inc/class-repeater.php:169 
+#: inc/class-repeater.php:218 inc/class-repeater.php:223 
+#: inc/class-repeater.php:240
+msgid "Image"
+msgstr ""
+
+#: inc/class-repeater.php:65 inc/class-repeater.php:148 
+#: inc/class-repeater.php:219
+msgid "None"
+msgstr ""
+
+#: inc/class-repeater.php:71 inc/class-repeater.php:90 
+#: inc/class-repeater.php:154 inc/class-repeater.php:172 
+#: inc/class-repeater.php:225 inc/class-repeater.php:243
+msgid "Upload Image"
+msgstr ""
+
+#: inc/class-repeater.php:110 inc/class-repeater.php:111 
+#: inc/class-repeater.php:186 inc/class-repeater.php:187 
+#: inc/class-repeater.php:255 inc/class-repeater.php:256 
+#: inc/widgets/widget-contact-info.php:38
+msgid "Title"
+msgstr ""
+
+#: inc/class-repeater.php:116 inc/class-repeater.php:117 
+#: inc/class-repeater.php:192 inc/class-repeater.php:193 
+#: inc/class-repeater.php:258 inc/class-repeater.php:259
+msgid "Text"
+msgstr ""
+
+#: inc/class-repeater.php:121 inc/class-repeater.php:122 
+#: inc/class-repeater.php:196 inc/class-repeater.php:197 
+#: inc/class-repeater.php:261 inc/class-repeater.php:262
+msgid "Link"
+msgstr ""
+
+#: inc/class-repeater.php:127 inc/class-repeater.php:128 
+#: inc/class-repeater.php:199 inc/class-repeater.php:200 
+#: inc/class-repeater.php:264 inc/class-repeater.php:265
+msgid "Button Text"
+msgstr ""
+
+#: inc/class-repeater.php:133 inc/class-repeater.php:203 
+#: inc/class-repeater.php:268
+msgid "Delete field"
+msgstr ""
+
+#: inc/class-repeater.php:212
+msgid "Advance Slider"
+msgstr ""
+
+#: inc/class-repeater.php:277
+msgid "Add new field"
+msgstr ""
+
+#. $id
+#: inc/custom-metabox.php:13
+msgid "Gallery Page Layout"
+msgstr ""
+
+#. $id
+#: inc/custom-metabox.php:21
+msgid "Post Sidebar Layout"
+msgstr ""
+
+#. $id
+#: inc/custom-metabox.php:29
+msgid "Page Sidebar Layout"
+msgstr ""
+
+#: inc/custom-metabox.php:45 inc/eightphoto-customizer.php:1050 
+#: inc/eightphoto-customizer.php:1509
+msgid "Left Sidebar"
+msgstr ""
+
+#: inc/custom-metabox.php:50
+msgid "No sidebar(Default)"
+msgstr ""
+
+#: inc/custom-metabox.php:56 inc/eightphoto-customizer.php:1051 
+#: inc/eightphoto-customizer.php:1510
+msgid "Right Sidebar"
+msgstr ""
+
+#: inc/custom-metabox.php:141
+msgid "Sly Layout(Default)"
+msgstr ""
+
+#: inc/custom-metabox.php:146
+msgid "Classic Layout"
+msgstr ""
+
+#: inc/custom-metabox.php:152
+msgid "Folio Layout"
+msgstr ""
+
+#: inc/eightphoto-customizer.php:7
+msgid "Basic Settings"
+msgstr ""
+
+#: inc/eightphoto-customizer.php:18
+msgid "Webpage Layout"
+msgstr ""
+
+#: inc/eightphoto-customizer.php:33
+msgid "Choose the layout that you want"
+msgstr ""
+
+#: inc/eightphoto-customizer.php:37 inc/eightphoto-customizer.php:1474
+msgid "Full Width"
+msgstr ""
+
+#: inc/eightphoto-customizer.php:38 inc/eightphoto-customizer.php:1475
+msgid "Boxed"
+msgstr ""
+
+#: inc/eightphoto-customizer.php:44
+msgid "Header Image"
+msgstr ""
+
+#: inc/eightphoto-customizer.php:49
+msgid "Themes Colors"
+msgstr ""
+
+#: inc/eightphoto-customizer.php:54
+msgid "Background Image"
+msgstr ""
+
+#: inc/eightphoto-customizer.php:63
+msgid "Footer Copyright"
+msgstr ""
+
+#: inc/eightphoto-customizer.php:76
+msgid "Copyright"
+msgstr ""
+
+#: inc/eightphoto-customizer.php:83
+msgid "Header Settings"
+msgstr ""
+
+#: inc/eightphoto-customizer.php:90
+msgid "Search Settings"
+msgstr ""
+
+#: inc/eightphoto-customizer.php:91
+msgid "eightphoto_header_settings"
+msgstr ""
+
+#: inc/eightphoto-customizer.php:100
+msgid "Choose Enable to show search option in header"
+msgstr ""
+
+#: inc/eightphoto-customizer.php:104 inc/eightphoto-customizer.php:143 
+#: inc/eightphoto-customizer.php:241 inc/eightphoto-customizer.php:302 
+#: inc/eightphoto-customizer.php:490 inc/eightphoto-customizer.php:537 
+#: inc/eightphoto-customizer.php:589 inc/eightphoto-customizer.php:662 
+#: inc/eightphoto-customizer.php:752 inc/eightphoto-customizer.php:1174 
+#: inc/eightphoto-customizer.php:1191 inc/eightphoto-customizer.php:1538
+msgid "Enable"
+msgstr ""
+
+#: inc/eightphoto-customizer.php:105 inc/eightphoto-customizer.php:144 
+#: inc/eightphoto-customizer.php:242 inc/eightphoto-customizer.php:303 
+#: inc/eightphoto-customizer.php:491 inc/eightphoto-customizer.php:538 
+#: inc/eightphoto-customizer.php:590 inc/eightphoto-customizer.php:663 
+#: inc/eightphoto-customizer.php:753 inc/eightphoto-customizer.php:1175 
+#: inc/eightphoto-customizer.php:1192 inc/eightphoto-customizer.php:1539
+msgid "Disable"
+msgstr ""
+
+#: inc/eightphoto-customizer.php:112
+msgid "HomePage Settings"
+msgstr ""
+
+#: inc/eightphoto-customizer.php:124
+msgid "Home Slider Settings"
+msgstr ""
+
+#: inc/eightphoto-customizer.php:139
+msgid "Enable Disable Slider"
+msgstr ""
+
+#: inc/eightphoto-customizer.php:168
+msgid "Upload Slider Image With Slider Title, Description, Link & Button Text"
+msgstr ""
+
+#: inc/eightphoto-customizer.php:191
+msgid "Show Pager"
+msgstr ""
+
+#: inc/eightphoto-customizer.php:195 inc/eightphoto-customizer.php:214 
+#: inc/eightphoto-customizer.php:900 inc/eightphoto-customizer.php:917 
+#: inc/eightphoto-customizer.php:934 inc/eightphoto-customizer.php:1095 
+#: inc/eightphoto-customizer.php:1112 inc/eightphoto-customizer.php:1129 
+#: inc/eightphoto-customizer.php:1550
+msgid "Yes"
+msgstr ""
+
+#: inc/eightphoto-customizer.php:196 inc/eightphoto-customizer.php:215 
+#: inc/eightphoto-customizer.php:901 inc/eightphoto-customizer.php:918 
+#: inc/eightphoto-customizer.php:935 inc/eightphoto-customizer.php:1096 
+#: inc/eightphoto-customizer.php:1113 inc/eightphoto-customizer.php:1130 
+#: inc/eightphoto-customizer.php:1551
+msgid "No"
+msgstr ""
+
+#: inc/eightphoto-customizer.php:210
+msgid "Show Caption"
+msgstr ""
+
+#: inc/eightphoto-customizer.php:221
+msgid "Gallery Section"
+msgstr ""
+
+#: inc/eightphoto-customizer.php:237
+msgid "Enable/Disable Gallery Section"
+msgstr ""
+
+#: inc/eightphoto-customizer.php:253
+msgid "Gallery Title"
+msgstr ""
+
+#: inc/eightphoto-customizer.php:274
+msgid "Select Gallery Category"
+msgstr ""
+
+#: inc/eightphoto-customizer.php:285
+msgid "Counter Section"
+msgstr ""
+
+#: inc/eightphoto-customizer.php:298
+msgid "Enable/Disable About Count Section"
+msgstr ""
+
+#: inc/eightphoto-customizer.php:315
+msgid "Counter One"
+msgstr ""
+
+#: inc/eightphoto-customizer.php:321 inc/eightphoto-functions.php:427
+msgid "Videos Captured"
+msgstr ""
+
+#: inc/eightphoto-customizer.php:328
+msgid "Title One"
+msgstr ""
+
+#: inc/eightphoto-customizer.php:341
+msgid ""
+"Example: <strong>fa-video-camera</strong>. Full list of icons is here "
+"<strong>Font Awesome Link</strong>"
+msgstr ""
+
+#: inc/eightphoto-customizer.php:342
+msgid "Icon One"
+msgstr ""
+
+#: inc/eightphoto-customizer.php:356
+msgid "Counter Two"
+msgstr ""
+
+#: inc/eightphoto-customizer.php:362 inc/eightphoto-functions.php:431
+msgid "PHOTOS CLICKED"
+msgstr ""
+
+#: inc/eightphoto-customizer.php:369
+msgid "Title Two"
+msgstr ""
+
+#: inc/eightphoto-customizer.php:382
+msgid ""
+"Example: <strong>fa-picture-o</strong>. Full list of icons is here <strong>"
+"Font Awesome Link</strong>"
+msgstr ""
+
+#: inc/eightphoto-customizer.php:383
+msgid "Icon Two"
+msgstr ""
+
+#: inc/eightphoto-customizer.php:397
+msgid "Counter Three"
+msgstr ""
+
+#: inc/eightphoto-customizer.php:403 inc/eightphoto-functions.php:435
+msgid "PLACES VISITED"
+msgstr ""
+
+#: inc/eightphoto-customizer.php:410
+msgid "Title Three"
+msgstr ""
+
+#: inc/eightphoto-customizer.php:423
+msgid ""
+"Example: <strong>fa-university</strong>. Full list of icons is here <strong>"
+"Font Awesome Link</strong>"
+msgstr ""
+
+#: inc/eightphoto-customizer.php:424
+msgid "Icon Three"
+msgstr ""
+
+#: inc/eightphoto-customizer.php:437
+msgid "Counter Four"
+msgstr ""
+
+#: inc/eightphoto-customizer.php:443 inc/eightphoto-functions.php:439
+msgid "AWARDS WON"
+msgstr ""
+
+#: inc/eightphoto-customizer.php:450
+msgid "Title Four"
+msgstr ""
+
+#: inc/eightphoto-customizer.php:463
+msgid ""
+"Example: <strong>fa-trophy</strong>. Full list of icons is here <strong>Font "
+"Awesome Link</strong>"
+msgstr ""
+
+#: inc/eightphoto-customizer.php:464
+msgid "Icon Four"
+msgstr ""
+
+#: inc/eightphoto-customizer.php:473
+msgid "About Section"
+msgstr ""
+
+#: inc/eightphoto-customizer.php:486
+msgid "Enable/Disable About Section"
+msgstr ""
+
+#: inc/eightphoto-customizer.php:509
+msgid "Select Page For About Section"
+msgstr ""
+
+#: inc/eightphoto-customizer.php:520
+msgid "Blogs Section"
+msgstr ""
+
+#: inc/eightphoto-customizer.php:533
+msgid "Enable Disable Blogs Section"
+msgstr ""
+
+#: inc/eightphoto-customizer.php:543
+msgid "Blog"
+msgstr ""
+
+#: inc/eightphoto-customizer.php:550
+msgid "Enter Blogs Title"
+msgstr ""
+
+#: inc/eightphoto-customizer.php:561
+msgid "Select a Category for Blogs"
+msgstr ""
+
+#: inc/eightphoto-customizer.php:572
+msgid "Our Services Section"
+msgstr ""
+
+#: inc/eightphoto-customizer.php:585
+msgid "Enable Disable Services Section"
+msgstr ""
+
+#: inc/eightphoto-customizer.php:595
+msgid "SERVICES"
+msgstr ""
+
+#: inc/eightphoto-customizer.php:602
+msgid "Our Services Title"
+msgstr ""
+
+#: inc/eightphoto-customizer.php:613
+msgid "Select Page For Services Area One"
+msgstr ""
+
+#: inc/eightphoto-customizer.php:625
+msgid "Select Page For Services Area Two"
+msgstr ""
+
+#: inc/eightphoto-customizer.php:637
+msgid "Select Page For Services Area Three"
+msgstr ""
+
+#: inc/eightphoto-customizer.php:645
+msgid "Call to Action Section"
+msgstr ""
+
+#: inc/eightphoto-customizer.php:658
+msgid "Enable/Disable Quick Section"
+msgstr ""
+
+#: inc/eightphoto-customizer.php:674
+msgid "BackGround Image"
+msgstr ""
+
+#: inc/eightphoto-customizer.php:680
+msgid "WANT A PHOTOGRAPHER?"
+msgstr ""
+
+#: inc/eightphoto-customizer.php:687
+msgid "Call To Action Title"
+msgstr ""
+
+#: inc/eightphoto-customizer.php:693 inc/eightphoto-functions.php:537
+msgid "Contact us if you want a photographer for photography."
+msgstr ""
+
+#: inc/eightphoto-customizer.php:700
+msgid "Call To Action Description"
+msgstr ""
+
+#: inc/eightphoto-customizer.php:712
+msgid "Call To Action Button Link"
+msgstr ""
+
+#: inc/eightphoto-customizer.php:725
+msgid "Call To Action Button Name"
+msgstr ""
+
+#: inc/eightphoto-customizer.php:735
+msgid "Quick Contact Info"
+msgstr ""
+
+#: inc/eightphoto-customizer.php:748
+msgid "Enable/Disable Call Action Section"
+msgstr ""
+
+#: inc/eightphoto-customizer.php:766
+msgid ""
+"Example: <strong>fa-envelope</strong>. Full list of icons is here <strong>"
+"Font Awesome Link</strong>"
+msgstr ""
+
+#: inc/eightphoto-customizer.php:767
+msgid "Email Icon"
+msgstr ""
+
+#: inc/eightphoto-customizer.php:780
+msgid "Email Address"
+msgstr ""
+
+#: inc/eightphoto-customizer.php:794
+msgid ""
+"Example: <strong>fa-twitter</strong>. Full list of icons is here <strong>"
+"Font Awesome Link</strong>"
+msgstr ""
+
+#: inc/eightphoto-customizer.php:795
+msgid "Twitter Icon"
+msgstr ""
+
+#: inc/eightphoto-customizer.php:808
+msgid "Twitter UserName"
+msgstr ""
+
+#: inc/eightphoto-customizer.php:822
+msgid ""
+"Example: <strong>fa-phone-square</strong>. Full list of icons is here "
+"<strong>Font Awesome Link</strong>"
+msgstr ""
+
+#: inc/eightphoto-customizer.php:823
+msgid "Phone Icon"
+msgstr ""
+
+#: inc/eightphoto-customizer.php:836
+msgid "Phone Number"
+msgstr ""
+
+#: inc/eightphoto-customizer.php:848
+msgid "Gallery Page Settings"
+msgstr ""
+
+#: inc/eightphoto-customizer.php:859
+msgid "Choose the Gallery Page Layout"
+msgstr ""
+
+#: inc/eightphoto-customizer.php:863 inc/eightphoto-customizer.php:978 
+#: inc/eightphoto-customizer.php:1004 inc/eightphoto-customizer.php:1030 
+#: inc/eightphoto-customizer.php:1485 inc/eightphoto-customizer.php:1523
+msgid "Grid View"
+msgstr ""
+
+#: inc/eightphoto-customizer.php:864 inc/eightphoto-customizer.php:1524
+msgid "Sortable Thumb View"
+msgstr ""
+
+#: inc/eightphoto-customizer.php:865 inc/eightphoto-customizer.php:1525
+msgid "Thumbs List View"
+msgstr ""
+
+#: inc/eightphoto-customizer.php:866 inc/eightphoto-customizer.php:1526
+msgid "Large Thumbs List View"
+msgstr ""
+
+#: inc/eightphoto-customizer.php:880
+msgid "Select the Categories for Gallery Page"
+msgstr ""
+
+#: inc/eightphoto-customizer.php:896 inc/eightphoto-customizer.php:1091
+msgid "Show Author"
+msgstr ""
+
+#: inc/eightphoto-customizer.php:913
+msgid "Show Post Date"
+msgstr ""
+
+#: inc/eightphoto-customizer.php:930
+msgid "Show Category"
+msgstr ""
+
+#: inc/eightphoto-customizer.php:946
+msgid "Description Word Limit"
+msgstr ""
+
+#: inc/eightphoto-customizer.php:955
+msgid "Archive Page Setting"
+msgstr ""
+
+#: inc/eightphoto-customizer.php:962
+msgid "Team Settings"
+msgstr ""
+
+#: inc/eightphoto-customizer.php:974
+msgid "Choose Layout for Team page"
+msgstr ""
+
+#: inc/eightphoto-customizer.php:979 inc/eightphoto-customizer.php:1005 
+#: inc/eightphoto-customizer.php:1031
+msgid "List View"
+msgstr ""
+
+#: inc/eightphoto-customizer.php:987
+msgid "Testimonial Settings"
+msgstr ""
+
+#: inc/eightphoto-customizer.php:1000
+msgid "Choose Layout for Testimonial page"
+msgstr ""
+
+#: inc/eightphoto-customizer.php:1013
+msgid "Archive Page Settings"
+msgstr ""
+
+#: inc/eightphoto-customizer.php:1025
+msgid "Choose Layout for Archive page"
+msgstr ""
+
+#: inc/eightphoto-customizer.php:1026
+msgid "This setting is for other archive pages."
+msgstr ""
+
+#: inc/eightphoto-customizer.php:1046
+msgid ""
+"Choose the Page Layout for all Archive pages.(Note: This sidebar setting is "
+"for Blog, Team ,Testimonial and other archive pages.)"
+msgstr ""
+
+#: inc/eightphoto-customizer.php:1052 inc/eightphoto-customizer.php:1511
+msgid "No Sidebar"
+msgstr ""
+
+#: inc/eightphoto-customizer.php:1061
+msgid "Blogs Page Layout Settings"
+msgstr ""
+
+#: inc/eightphoto-customizer.php:1074
+msgid "Choose the Blogs Page Layout"
+msgstr ""
+
+#: inc/eightphoto-customizer.php:1078 inc/eightphoto-customizer.php:1497
+msgid "Alternate Image List View"
+msgstr ""
+
+#: inc/eightphoto-customizer.php:1079 inc/eightphoto-customizer.php:1498
+msgid "Large Image List View"
+msgstr ""
+
+#: inc/eightphoto-customizer.php:1108
+msgid "Show Date Posted"
+msgstr ""
+
+#: inc/eightphoto-customizer.php:1125
+msgid "Show Meta Category"
+msgstr ""
+
+#: inc/eightphoto-customizer.php:1142
+msgid "Blog Description Excerpt Limit"
+msgstr ""
+
+#: inc/eightphoto-customizer.php:1151
+msgid "Social Settings"
+msgstr ""
+
+#: inc/eightphoto-customizer.php:1157
+msgid "Social Section"
+msgstr ""
+
+#: inc/eightphoto-customizer.php:1170
+msgid "Enable Disable Social Icons in Header"
+msgstr ""
+
+#: inc/eightphoto-customizer.php:1187
+msgid "Enable Disable Social Icons in Footer"
+msgstr ""
+
+#: inc/eightphoto-customizer.php:1204
+msgid "Facebook"
+msgstr ""
+
+#: inc/eightphoto-customizer.php:1219
+msgid "Twitter"
+msgstr ""
+
+#: inc/eightphoto-customizer.php:1234
+msgid "Google Plus"
+msgstr ""
+
+#: inc/eightphoto-customizer.php:1249
+msgid "YouTube"
+msgstr ""
+
+#: inc/eightphoto-customizer.php:1264
+msgid "Pinterest"
+msgstr ""
+
+#: inc/eightphoto-customizer.php:1279
+msgid "Linkedin"
+msgstr ""
+
+#: inc/eightphoto-customizer.php:1294
+msgid "Flicker"
+msgstr ""
+
+#: inc/eightphoto-customizer.php:1310
+msgid "Vimeo"
+msgstr ""
+
+#: inc/eightphoto-customizer.php:1325
+msgid "Stumbleupon"
+msgstr ""
+
+#: inc/eightphoto-customizer.php:1340
+msgid "Instagram"
+msgstr ""
+
+#: inc/eightphoto-customizer.php:1355
+msgid "Sound Cloud"
+msgstr ""
+
+#: inc/eightphoto-customizer.php:1370
+msgid "Git Hub"
+msgstr ""
+
+#: inc/eightphoto-customizer.php:1385
+msgid "Tumbler"
+msgstr ""
+
+#: inc/eightphoto-customizer.php:1400
+msgid "Skype"
+msgstr ""
+
+#: inc/eightphoto-customizer.php:1415
+msgid "RSS"
+msgstr ""
+
+#: inc/eightphoto-customizer.php:1426
+msgid "Custom Code Section"
+msgstr ""
+
+#: inc/eightphoto-customizer.php:1438
+msgid "Custom CSS"
+msgstr ""
+
+#: inc/eightphoto-customizer.php:1486
+msgid "list View"
+msgstr ""
+
+#: inc/eightphoto-functions.php:202
+msgid "skype:"
+msgstr ""
+
+#: inc/eightphoto-functions.php:256
+msgid "Our Services"
+msgstr ""
+
+#: inc/eightphoto-functions.php:341
+msgid "Blog Posts"
+msgstr ""
+
+#: inc/eightphoto-functions.php:536
+msgid "Need A Photographer ?"
+msgstr ""
+
+#: inc/eightphoto-functions.php:539
+msgid "Hire Me"
+msgstr ""
+
+#: inc/eightphoto-functions.php:660
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/eightphoto-functions.php:661
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/eightphoto-functions.php:662
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: inc/eightphoto-functions.php:663
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: inc/eightphoto-functions.php:664
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/eightphoto-functions.php:667
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/eightphoto-functions.php:670
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/eightphoto-functions.php:673
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/eightphoto-functions.php:676
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/eightphoto-functions.php:679
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %1$s plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/eightphoto-functions.php:682
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/eightphoto-functions.php:685
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/eightphoto-functions.php:688
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/eightphoto-functions.php:691
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/eightphoto-functions.php:694
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/eightphoto-functions.php:697
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/eightphoto-functions.php:700
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/eightphoto-functions.php:701
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/eightphoto-functions.php:702
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/eightphoto-functions.php:703
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: inc/eightphoto-functions.php:704
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: inc/eightphoto-functions.php:705
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/eightphoto-functions.php:706
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/extras.php:61
+msgid "Home"
+msgstr ""
+
+#: inc/extras.php:78
+msgid "Search results for"
+msgstr ""
+
+#: inc/extras.php:136
+msgid "Posts tagged"
+msgstr ""
+
+#: inc/extras.php:140
+msgid "Articles posted by "
+msgstr ""
+
+#: inc/extras.php:148
+msgid "Page"
+msgstr ""
+
+#: inc/template-tags.php:29
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#: inc/template-tags.php:34
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:51 inc/template-tags.php:57
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:53
+msgid "Posted in %1$s"
+msgstr ""
+
+#: inc/template-tags.php:59
+msgid "Tagged %1$s"
+msgstr ""
+
+#: inc/template-tags.php:65
+msgid "Leave a comment"
+msgstr ""
+
+#: inc/template-tags.php:65
+msgid "1 Comment"
+msgstr ""
+
+#: inc/template-tags.php:65
+msgid "% Comments"
+msgstr ""
+
+#: template-parts/content-none.php:15
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:26
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:30
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:35
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:21 template-parts/content-single.php:42 
+#: template-parts/content.php:177
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content-page.php:28
+msgid "Edit"
+msgstr ""
+
+#. translators: %s: Name of current post.
+#: template-parts/content.php:172
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: inc/widgets/widget-callto-action.php:15
+msgid "A widget that shows Call to Action"
+msgstr ""
+
+#: inc/widgets/widget-callto-action.php:28
+msgid "CTA Title"
+msgstr ""
+
+#: inc/widgets/widget-callto-action.php:34
+msgid "Choose CTA Image"
+msgstr ""
+
+#: inc/widgets/widget-callto-action.php:40
+msgid "Enter CTA Button Text"
+msgstr ""
+
+#: inc/widgets/widget-callto-action.php:46
+msgid "Enter CTA Link"
+msgstr ""
+
+#: inc/widgets/widget-callto-action.php:59
+msgid "Need a Photographer ?"
+msgstr ""
+
+#: inc/widgets/widget-callto-action.php:60
+msgid "HIRE ME"
+msgstr ""
+
+#: inc/widgets/widget-contact-info.php:25
+msgid "A widget that shows Contact Info"
+msgstr ""
+
+#: inc/widgets/widget-contact-info.php:43
+msgid "Phone"
+msgstr ""
+
+#: inc/widgets/widget-contact-info.php:48
+msgid "Email"
+msgstr ""
+
+#: inc/widgets/widget-contact-info.php:53
+msgid "Contact Address"
+msgstr ""
+
+#: inc/widgets/widget-contact-info.php:59
+msgid "About Description"
+msgstr ""
+
+#: inc/widgets/widget-fields.php:184
+msgid "No file chosen"
+msgstr ""
+
+#: inc/widgets/widget-fields.php:187 inc/widgets/widget-fields.php:272
+msgid "Upload"
+msgstr ""
+
+#: inc/widgets/widget-fields.php:189 inc/widgets/widget-fields.php:273
+msgid "Remove"
+msgstr ""
+
+#: inc/widgets/widget-fields.php:192
+msgid "Upgrade your version of WordPress for full media support."
+msgstr ""
+
+#: inc/widgets/widget-fields.php:211
+msgid "View File"
+msgstr ""
+
+#. Name of the theme
+msgid "EightPhoto"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"EightPhoto is beautiful, clean and elegant free responsive theme for "
+"photographers, artists to showcase their awesome skills. The theme has "
+"beautifully designed slider, service section, portfolio section and "
+"instagram showcase. This theme is fully built on customizer which gives you "
+"power to configure/customize with live preview. Great customer support via "
+"online chat, email, support forum. Official support forum: http:"
+"//8degreethemes.com/support/"
+msgstr ""
+
+#. Theme URI of the theme
+msgid "https://8degreethemes.com/wordpress-themes/eightphoto"
+msgstr ""
+
+msgid "8Degree Themes"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://8degreethemes.com/"
+msgstr ""

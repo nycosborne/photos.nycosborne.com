@@ -1,0 +1,218 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Divina\n"
+"POT-Creation-Date: 2015-08-07 16:31+0100\n"
+"PO-Revision-Date: 2015-08-07 16:31+0100\n"
+"Last-Translator: Pasquale <paky.bucci@gmail.com>\n"
+"Language-Team: Pasquale <paky.bucci@gmail.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.7\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:15
+msgid "404"
+msgstr ""
+
+#: 404.php:16
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:20
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+
+#: comments.php:24
+#, php-format
+msgctxt "comments title"
+msgid "One comment"
+msgid_plural "%1$s comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:48
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:52
+msgid "Write your comment here..."
+msgstr ""
+
+#: content-audio.php:21 content-gallery.php:21 content-image.php:21
+#: content-page.php:26 content-video.php:21 content.php:23
+#, php-format
+msgid "Continue reading %s"
+msgstr ""
+
+#: content-audio.php:26 content-gallery.php:26 content-image.php:26
+#: content-page.php:31 content-video.php:26 content.php:28
+msgid "Pages:"
+msgstr ""
+
+#: content-audio.php:30 content-gallery.php:30 content-image.php:30
+#: content-page.php:35 content-video.php:30 content.php:32
+msgid "Page"
+msgstr ""
+
+#: content-audio.php:38 content-gallery.php:38 content-image.php:38
+#: content-page.php:42 content-square.php:29 content-video.php:38
+#: content.php:40
+msgid "Edit"
+msgstr ""
+
+#: content-none.php:12
+msgid "Nothing Found"
+msgstr ""
+
+#: content-none.php:19
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: content-none.php:23
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: content-none.php:28
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: content-square.php:28
+msgid "Read more..."
+msgstr ""
+
+#: content-square.php:46
+msgid "Other "
+msgstr ""
+
+#: content-square.php:46
+msgid " posts"
+msgstr ""
+
+#: footer.php:17
+msgid "Divina WordPress theme by Pasquale Bucci"
+msgstr ""
+
+#: functions.php:46
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:47
+msgid "Bottom Menu"
+msgstr ""
+
+#: functions.php:91
+msgctxt "Raleway font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:99
+msgctxt "Niconne font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:107
+msgctxt "Add new subset (greek, cyrillic, devanagari, vietnamese)"
+msgid "no-subset"
+msgstr ""
+
+#: functions.php:176
+msgid "Footer Area 1"
+msgstr ""
+
+#: functions.php:178 functions.php:187
+msgid "Add widgets here to appear in your footer area."
+msgstr ""
+
+#: functions.php:185
+msgid "Footer Area 2"
+msgstr ""
+
+#: functions.php:225
+msgid "Comment navigation"
+msgstr ""
+
+#: functions.php:228
+msgid "Older Comments"
+msgstr ""
+
+#: functions.php:232
+msgid "Newer Comments"
+msgstr ""
+
+#: functions.php:287
+msgctxt "Used before post author name."
+msgid "By"
+msgstr ""
+
+#: functions.php:293 functions.php:302
+msgctxt "Used between list items, there is a space after the comma."
+msgid ", "
+msgstr ""
+
+#: functions.php:297
+msgctxt "Used before category names."
+msgid "In"
+msgstr ""
+
+#: functions.php:306
+msgctxt "Used before tag names."
+msgid "Tags:"
+msgstr ""
+
+#: functions.php:314
+msgid "Leave a comment"
+msgstr ""
+
+#: functions.php:314
+msgid "1 Comment"
+msgstr ""
+
+#: functions.php:314
+msgid "% Comments"
+msgstr ""
+
+#: functions.php:393
+msgid "Your full name"
+msgstr ""
+
+#: functions.php:397
+msgid "Email address"
+msgstr ""
+
+#: functions.php:401
+msgid "Website"
+msgstr ""
+
+#: header.php:40
+msgid "Skip to content"
+msgstr ""
+
+#: single.php:32
+msgid "Previous"
+msgstr ""
+
+#: single.php:32
+msgid "Previous post:"
+msgstr ""
+
+#: single.php:33
+msgid "Next"
+msgstr ""
+
+#: single.php:33
+msgid "Next post:"
+msgstr ""

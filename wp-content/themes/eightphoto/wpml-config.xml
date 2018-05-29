@@ -1,0 +1,32 @@
+<wpml-config>
+    <admin-texts>
+        <key name="theme_mods_eightphoto">
+            <key name="eightphoto_copyright" />
+            <key name="eightphoto_homepage_our_service_title" />
+            <key name="eightphoto_homepage_about_counter_one" />
+            <key name="eightphoto_homepage_about_title_one" />
+            <key name="eightphoto_homepage_about_icon_one" />
+            <key name="eightphoto_homepage_about_counter_two" />
+            <key name="eightphoto_homepage_about_title_two" />
+            <key name="eightphoto_homepage_about_icon_two" />
+            <key name="eightphoto_homepage_about_counter_three" />
+            <key name="eightphoto_homepage_about_title_three" />
+            <key name="eightphoto_homepage_about_icon_three" />
+            <key name="eightphoto_homepage_about_counter_four" />
+            <key name="eightphoto_homepage_about_title_four" />
+            <key name="eightphoto_homepage_about_icon_four" />
+            <key name="eightphoto_homepage_gallery_main_title" />
+            <key name="eightphoto_homepage_call_action_title" />
+            <key name="eightphoto_homepage_call_action_sub_title" />
+            <key name="eightphoto_homepage_call_action_button_link" />
+            <key name="eightphoto_homepage_call_action_button_name" />
+            <key name="eightphoto_homepage_blogs_title" />
+            <key name="eightphoto_homepage_quick_email_icon" />
+            <key name="eightphoto_homepage_quick_email" />
+            <key name="eightphoto_homepage_quick_twitter_icon" />
+            <key name="eightphoto_homepage_quick_twitter" />
+            <key name="eightphoto_homepage_quick_phone_icon" />
+            <key name="eightphoto_homepage_quick_phone" />
+        </key>
+    </admin-texts>
+</wpml-config>
